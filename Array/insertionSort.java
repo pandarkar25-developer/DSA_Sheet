@@ -14,10 +14,7 @@ public class insertionSort {
 
                     arr[j] =temp;
             
-           
-
-            
-        }
+            }
         }
         
 
