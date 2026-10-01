@@ -1,4 +1,4 @@
-package Array;
+
 
 public class bubbleSort {
     public static int[] sort(int arr[]){
@@ -27,6 +27,6 @@ public class bubbleSort {
         for(int i:arr){
             System.out.print(" "+i);
         }
-        
+
     }
 }
