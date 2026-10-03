@@ -1,4 +1,3 @@
-package Array;
 public class selectionSort{
 
     static int[] sort(int[] arr){
